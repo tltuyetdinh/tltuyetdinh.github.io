@@ -1,0 +1,3 @@
+[Version]
+Latest=1.00.0052
+NewLaunch=1.0.1.10
