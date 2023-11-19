@@ -1,3 +1,9 @@
 [Version]
-Latest=1.00.0052
+Latest=1.00.0053
 NewLaunch=1.0.1.10
+
+
+[Patch_0]
+VersionFrom=1.00.0052
+VersionTo=1.00.0053
+URL_1=https://s3-hcm-r1.longvan.net/patch-update/TLBB_Update52-53.zip
